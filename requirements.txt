@@ -1,0 +1,5 @@
+pygame==2.5.1
+requests==2.31.0
+metno-locationforecast==1.1.0
+timezonefinder==6.2.0
+pytz==2023.3.post1
