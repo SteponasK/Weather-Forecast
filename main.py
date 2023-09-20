@@ -50,7 +50,7 @@ def main():
 
     # Search_bar input field size
     input_box_width = 400
-    input_box_height = FONT_SIZE # pakeist sita
+    input_box_height = FONT_SIZE
 
     # Position the Search_bar input field
     input_box_x = 195
@@ -59,7 +59,6 @@ def main():
     input_box = pygame.Rect(input_box_x, input_box_y, input_box_width, input_box_height)
 
     parameters = {}  
-    #weather_symbol = "clear_sky"  # Default value, you can update this as needed
     city_input = ""
     text_input = ""
     current_hour = 0
@@ -152,7 +151,7 @@ def main():
             screen.blit(city_text_render, (410, 200))
 
             # Air temperature
-            temperature_render = temperature_text.render(str(round(float(parameters['temperature']))) + "\u00b0C", True, (173, 216, 230))  # (0,128,0)
+            temperature_render = temperature_text.render(str(round(float(parameters['temperature']))) + "\u00b0C", True, (173, 216, 230))
             screen.blit(temperature_render, (750, 100))
 
             # Feels-like temperature
