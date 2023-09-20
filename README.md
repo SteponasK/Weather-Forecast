@@ -1,5 +1,6 @@
 # Weather Forecast
 ![menu_gif](Readme_resources/menu_gif.gif)
+
 Weather Forecast application made using Pygame and various API's, used to display weather consing for a specific location
 
 ## Features
@@ -11,8 +12,6 @@ Weather Forecast application made using Pygame and various API's, used to displa
 - Precipitaion amount / h
 - Precipitation amount / 24h
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Python](Readme_resources/python.png)](https://www.python.org/downloads/)
 *  [![Pygame](Readme_resources/pygame.jpg)](https://www.pygame.org/download.shtml)
