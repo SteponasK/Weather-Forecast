@@ -1,10 +1,10 @@
 # Weather Forecast
-![menu_gif](ReadMe/menu_gif.gif)
-Weather Forecast application made using Pygame and various API's, used to display weather in a specific location
+![menu_gif](Readme_resources/menu_gif.gif)
+Weather Forecast application made using Pygame and various API's, used to display weather consing for a specific location
 
 ## Features
  ![menu2_picture](Readme_resources/menu2.png)
-- Ability to find weather information, based on the specific City
+- Ability to find weather information, based on the specific city
 - Wind speed
 - Pressure
 - Humidity
@@ -15,7 +15,7 @@ Weather Forecast application made using Pygame and various API's, used to displa
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Python](Readme_resources/python.png)](https://www.python.org/downloads/)
-*  [![Pygame](Readme_resources/pygame.png)](https://www.pygame.org/download.shtml)
+*  [![Pygame](Readme_resources/pygame.jpg)](https://www.pygame.org/download.shtml)
 * [![MET_API](Readme_resources/met_api.png)](https://api.met.no/)
 
 <a id="prerequisites"></a>
