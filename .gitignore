@@ -1,0 +1,13 @@
+# .gitignore
+
+# Ignore virtual environment folders
+venv/
+.venv/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore various other files
+.DS_Store
+.vscode/
+.idea/
