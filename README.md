@@ -13,11 +13,13 @@
 - Humidity
 - Precipitaion amount / h
 - Precipitation amount / 24h
-## 🏗️ Built With
 
-* [![Python](Readme_resources/python.png)](https://www.python.org/downloads/)
-*  [![Pygame](Readme_resources/pygame.jpg)](https://www.pygame.org/download.shtml)
-* [![MET_API](Readme_resources/met_api.png)](https://api.met.no/)
+## 👨‍💻 Getting Started    
+1. Clone the repository
+    ```
+    git clone https://github.com/SteponasK/Weather-Forecast
+    ```
+2. Download and import all  the required modules. List of the modules can be found in [Presequites](#prerequisites) section or [requirement.txt](requirements.txt) file
 
 <a id="prerequisites"></a>
 ## 📖 Prerequisites 
@@ -53,12 +55,11 @@ Don't forget to give the project a star! Thanks!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 👨‍💻 Getting Started    
-1. Clone the repository
-    ```
-    git clone https://github.com/SteponasK/Weather-Forecast
-    ```
-2. Download and import all  the required modules. List of the modules can be found in [Presequites](#prerequisites) section or [requirement.txt](requirements.txt) file
+## 🏗️ Built With
+
+* [![Python](Readme_resources/python.png)](https://www.python.org/downloads/)
+*  [![Pygame](Readme_resources/pygame.jpg)](https://www.pygame.org/download.shtml)
+* [![MET_API](Readme_resources/met_api.png)](https://api.met.no/)
 
 ## 👑 Authors
 
