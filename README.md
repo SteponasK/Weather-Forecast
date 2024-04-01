@@ -11,7 +11,7 @@
 - Wind speed
 - Pressure
 - Humidity
-- Precipitaion amount / h
+- Precipitation amount / h
 - Precipitation amount / 24h
 
 ## 👨‍💻 Getting Started    
@@ -19,7 +19,7 @@
     ```
     git clone https://github.com/SteponasK/Weather-Forecast
     ```
-2. Download and import all  the required modules. List of the modules can be found in [Presequites](#prerequisites) section or [requirement.txt](requirements.txt) file
+2. Download and import all  the required modules. List of the modules can be found in [Prerequisites](#prerequisites) section or [requirement.txt](requirements.txt) file
 
 <a id="prerequisites"></a>
 ## 📖 Prerequisites 
