@@ -1,12 +1,12 @@
 # Weather Forecast
 * Weather Forecast application made using Pygame and various API's, used to display weather consing for a specific location
 
-![menu_gif](Readme_resources/menu_gif.gif)
+![menu_gif](README-images/menu_gif.gif)
 
 
 
 ## 💪 Features
- ![menu2_picture](Readme_resources/menu2.png)
+ ![menu2_picture](README-images/menu2.png)
 - Ability to find weather information, based on the specific city
 - Wind speed
 - Pressure
